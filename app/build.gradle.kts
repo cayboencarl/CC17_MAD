@@ -3,8 +3,8 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
-android {
-    namespace = "com.example.cc17_mad"
+landroid {
+    namespace = "com.xample.cc17_mad"
     compileSdk {
         version = release(37)
     }
